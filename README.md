@@ -15,5 +15,3 @@
 ### ⚡ Fun facts:
 - I dream of living in the woods with nature
 - When I'm not coding, I walk my two dogs 🐺🦊, and bake vegan sweets
-
----
