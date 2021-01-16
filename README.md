@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align='center'> ✨ Hello there, I'm Christina Yun ✨ </h1>
+<h3 align="center">🚀 frontend developer 🚀</h3>
 
-<!--
-**yjcyun/yjcyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻	My Favourite Stacks:
+- ReactJS & Styled-Components
+- Gatsby & GraphQL
+- Node & Express & MongoDB
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning:
+- Unit & Integration testing with Jest and Enzyme
+- Typescript
+- Liquid (Shopify)
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun facts:
+- I dream of living in the woods with nature
+- When I'm not coding, I walk my two dogs 🐺🦊, and bake vegan sweets
+
+---
